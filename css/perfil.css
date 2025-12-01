@@ -531,7 +531,7 @@ h4{
     .subidos{
         order: 2;
         display: flex;
-        overflow-y: auto;
+        overflow-x: auto;
         flex-direction: row;
     }
     .subidos h3{
@@ -580,4 +580,5 @@ h4{
     }
 
     
+
 }
